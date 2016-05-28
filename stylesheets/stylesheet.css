@@ -44,7 +44,6 @@ ol, ul {
 }
 
 table {
-  border: 1px rgb(55, 55, 55);
   border-collapse: collapse;
   border-spacing: 0;
 }
@@ -239,7 +238,7 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: 1px solid DarkGray;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -253,7 +252,7 @@ th {
 
 td {
   padding: 10px;
-  border: 1px solid #373737;
+  border: 1px solid DarkGray;
  }
 
 form {
