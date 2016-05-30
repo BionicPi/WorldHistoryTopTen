@@ -30,7 +30,7 @@ time, mark, audio, video {
 }
 
 td{
-  text-align:center;
+  /*text-align:center;*/
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -68,6 +68,11 @@ h1, h2, h3, h4, h5, h6 {
   color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
+}
+
+pre {
+  color:#222222;
+  font-family: 'Lucia Grande', 'Calibri', Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -161,7 +166,7 @@ p img {
   border: none;
 }
 
-pre, code {
+code {
   width: 100%;
   color: #222;
   background-color: #fff;
